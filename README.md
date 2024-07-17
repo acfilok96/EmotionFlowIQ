@@ -6,7 +6,7 @@ This `Streamlit` framework use to built a LLM chatbot application that analyzes 
 
 ### Web Application
 
-[FlowIQ.app](https://emotionalai-flowiq.streamlit.app/)
+[EmotionalFlowIQ.app](https://emotionalai-flowiq.streamlit.app/)
 
 ### Folder Set up
 
