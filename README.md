@@ -1,4 +1,4 @@
-# Welcome to EmotionalFlowIQ! 🔗
+# Welcome to EmotionFlowIQ! 🔗
 
 ### About
 
